@@ -1,2 +1,2 @@
 # projects
-My all projects are uploaded here.
+My project 1 is uploaded here.
